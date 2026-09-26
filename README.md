@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 this section is for Description
 ##Another section 
 this is the last one . new one - without commit
+##copyright
+adding copyright
