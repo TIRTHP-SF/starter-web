@@ -13,4 +13,4 @@ this section is for Description
 this is the last one . new one - without commit
 ##copyright
 checking otu master and multiple branch commit 
-adding copyright
+adding copyright all rights reserved
